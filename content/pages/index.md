@@ -55,10 +55,9 @@ sections:
       - type: FeaturedItem
         title: "\U0001F4DE"
         subtitle: Omnichannel Support
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Phone, chat, email, social media, and WhatsApp — so your customers
+          always get a fast response.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
