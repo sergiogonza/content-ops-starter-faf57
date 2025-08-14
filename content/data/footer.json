@@ -90,7 +90,7 @@
         },
         {
             "label": "Privacy",
-            "url": "/",
+            "url": "/policy",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
