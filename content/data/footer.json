@@ -61,15 +61,15 @@
     },
     "socialLinks": [
         {
-            "altText": "Twitter link",
-            "url": "https://twitter.com/netlify",
-            "icon": "twitter",
+            "altText": "Instagram link",
+            "url": "https://www.instagram.com/connectandclose.col/",
+            "icon": "instagram",
             "type": "Social"
         },
         {
-            "altText": "LinkedIn link",
-            "url": "https://www.linkedin.com/company/netlify",
-            "icon": "linkedin",
+            "altText": "Facebook link",
+            "url": "https://www.facebook.com/profile.php?id=100094780488409",
+            "icon": "facebook",
             "type": "Social"
         },
         {
