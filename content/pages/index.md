@@ -53,7 +53,7 @@ sections:
     subtitle: Why Choose Us?
     items:
       - type: FeaturedItem
-        title: "\U0001F4DE Omnichannel Support"
+        title: "\U0001F4DE"
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
