@@ -221,7 +221,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
+    subtitle: ''
     text: >
       “With Connect and Close, we reduced response times by 35% and increased
       customer satisfaction by 50%.”
