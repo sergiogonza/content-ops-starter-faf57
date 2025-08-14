@@ -101,13 +101,7 @@ sections:
 
       **Phone:** +57 310 634 4695
 
-    actions:
-      - type: Button
-        label: See open positions
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     colors: bg-neutral-fg-dark
     backgroundImage:
       type: BackgroundImage
