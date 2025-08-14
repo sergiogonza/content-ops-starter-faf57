@@ -9,9 +9,9 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      We provide customized Contact Center solutions for national and
+      international companies, with cutting-edge technology and an expert human
+      team.
     actions:
       - label: Get started
         altText: ''
