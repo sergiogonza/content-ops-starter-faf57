@@ -105,10 +105,8 @@ sections:
         type: FeaturedItem
       - title: "\U0001F4CA"
         subtitle: Reports & Analytics
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          Real-time metrics to help you make better decisions.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
