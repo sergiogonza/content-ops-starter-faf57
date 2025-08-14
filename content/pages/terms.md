@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: ''
+    subtitle: '-'
     text: >+
       # Terms and Conditions
 
