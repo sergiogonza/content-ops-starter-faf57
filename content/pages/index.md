@@ -82,10 +82,8 @@ sections:
               borderRadius: x-large
       - title: ⚡
         subtitle: Fast Response Times
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          We optimize service times to enhance customer satisfaction.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
